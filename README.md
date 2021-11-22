@@ -1,5 +1,10 @@
 ![JCS](https://cyberphone.github.io/doc/security/jcs.svg)
 
+**This repo is a fork of the original repo with Python2.7 support added**  
+*Current Implementation passed all the initial tests, still needs to test verify-numbers.py with the large file*
+
+***
+
 # JSON Canonicalization
 
 Cryptographic operations like hashing and signing depend on that the target 
